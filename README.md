@@ -1,3 +1,5 @@
+<img alt="Cute count" src="http://moe-count.glitch.me/get/@loonglim?theme=rule34"/>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/loonglim/loonglim/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/loonglim/loonglim/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
